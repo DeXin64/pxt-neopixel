@@ -17,6 +17,8 @@
         "_locales/fr/neopixel-strings.json",
         "_locales/zh/neopixel-strings.json",
         "_locales/fr/neopixel-jsdoc-strings.json",
+        "_locales/da/neopixel-strings.json",
+        "_locales/da/neopixel-jsdoc-strings.json",
         "_locales/pl/neopixel-strings.json",
         "_locales/zh-TW/neopixel-strings.json"
     ],
